@@ -93,6 +93,7 @@ border: none;
     background: transparent;
     position: relative;
     cursor: pointer;
+    text-decoration: none;
 }
 span{
     width:0;
